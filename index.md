@@ -1,5 +1,6 @@
 ---
-title: Order Management & Search API
+title: "Order Management Search API – FastAPI | Rahuul Siingh"
+description: "FastAPI backend project for order management, search, GST calculation, and search functionality."
 ---
 
 # Order Management & Search API
