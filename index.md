@@ -18,4 +18,4 @@ A backend service built with **FastAPI** for managing and searching orders.
 - REST APIs
 
 ## 📦 GitHub Repository
-https://github.com/rahul-singh-dev/order-management-search-api-fastapi-mongodb
+[Order Management & Search API](https://github.com/rahuul-siingh-dev/order-management-search-api-fastapi-mongodb)
